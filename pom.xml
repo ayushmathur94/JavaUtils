@@ -33,7 +33,6 @@
 </sonar.exclusions>
 </properties>
  
- 
  <repositories>
 <repository>
 <id>com.springsource.repository.bundles.release</id>
